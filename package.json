@@ -1,0 +1,9 @@
+{
+  "name": "toggle_reddit_sidebar",
+  "title": "toggle_reddit_sidebar",
+  "id": "jid1-jCBJ5eiZEWdxtQ",
+  "description": "Fat horned alots will rain from the sky before we get a responsive Reddit layout. In the meantime, we can stop the sidebar from eating into the available space and bring it back only when we need it with a click of a button.",
+  "author": "Ivana Stojadinovic contact[at]ivanaweb[dot]com",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
